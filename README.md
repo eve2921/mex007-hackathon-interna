@@ -21,7 +21,7 @@ Para los amantes de la ciencia ficción que quieren conocer mas sobre una pelíc
 Baja fidelidad
 ![probando](https://i.ibb.co/Y7K6ymq/prototipobaja.png)
 
--Pruebas de usabilidad
+- Pruebas de usabilidad
 Entre las principales observaciones que se hizo a la interfaz está que falta especificar la función de los marcianitos en la parte inferior de la imagen de la película ya que algunos lo interpretaron como una posible pista de lo que trataba el filme o si se podía interactuar con ellos para jugar. Una vez que se les comentó que era para puntuar la película, uno sugirió cambiarlo por una barra que se llenara, 2 más opinaron que se regresara al tradicional sistema de estrellas, otro comentó que solo se agregara la calificación en número y 2 más creyeron conveniente agregar el texto “puntuación” sobre los marcianitos. 
 El 80% opinó que la navegación era rápida y simple, solo uno se sintió confundido al no tener la visualización completa de la app (que tuviera texto e imágenes de las películas)
 El 60% dijo que no la usaría mas de dos veces por semana ya que no tienen tanto tiempo para ver películas o buscar sobre ellas, el otro 40% se sintió entusiasmado en tener una app que le ayudara con el contenido que quería ver
