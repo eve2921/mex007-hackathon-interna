@@ -16,8 +16,10 @@ Sci-filos busca ayudar al usuario a elegir un titulo en un menor tiempo, para el
 Otra sección dentro de Sci-Filos es un top de las películas mejor calificas.
 Para los amantes de la ciencia ficción que quieren conocer mas sobre una película en particular se agrego un buscador en la parte superior de la aplicación.
 
-## Encuesta
-[Encuestas](https://docs.google.com/document/d/1v1NqMLAKgoq1u7gdmKCabHb5l9X7pjnQUI4wuVi1-4A/edit)
+## Conociendo a nuestro usuario
+Para obtener datos de los posibles usuarios que usarían nuestra aplicación nos dimos a la tarea de realizar una encuesta:
+[Encuestas](https://goo.gl/forms/vEzbXgr1G2gAVyWF2)
+[Resultados](https://docs.google.com/document/d/1v1NqMLAKgoq1u7gdmKCabHb5l9X7pjnQUI4wuVi1-4A/edit?usp=sharing)
 ## Prototipado
 
 - Baja fidelidad
