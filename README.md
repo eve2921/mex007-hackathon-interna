@@ -19,6 +19,12 @@ Para los amantes de la ciencia ficción que quieren conocer mas sobre una pelíc
 ![probando](https://ibb.co/1q6Xw4x)
 ![probando](https://ibb.co/MVYMRVD)
 ![probando](https://ibb.co/grSr6yF)
+
+
+.. image:: https://ibb.co/R6Ythc6
+  :alt:
+  :align: cent
+
 ## Encuestas
 [Encuestas](https://docs.google.com/document/d/1v1NqMLAKgoq1u7gdmKCabHb5l9X7pjnQUI4wuVi1-4A/edit)
 ## Pruebas de usabilidad
