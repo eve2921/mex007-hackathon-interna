@@ -54,7 +54,12 @@ Desarrollado con:
 
 ## Features
 En un próximo alcance tenemos planeado:
-* ds
+* Agregar un botón en la sección de tendencias que te envíe una película aleatoria
+* Que el usuario al dar click en una pelicula muestre la ficha técnica mas detallada
+* Que la puntuación de las películas se muestre con íconos
+* Que el usuario tenga una perfil y pueda añadir favoritos
+* Que se le sugiera al usuario una película segun su estado de ánimo
+
 
 ## ¿Cómo usar LOL Lovers?
 Para ingresar a la plataforma de Sci-filos, se debe contar con acceso a internet en un dispositivo móvil y en la barra de direcciones colocar la siguiente dirección.
