@@ -15,6 +15,10 @@ Otra sección dentro de Sci-Filos es un top de las películas mejor calificas.
 Para los amantes de la ciencia ficción que quieren conocer mas sobre una película en particular se agrego un buscador en la parte superior de la aplicación.
 ## Prototipado
 [Prototipo Marvel](https://marvelapp.com/87607bd/screen/53878026)
+![probando](https://ibb.co/Db0Rt7c)
+![probando](https://ibb.co/1q6Xw4x)
+![probando](https://ibb.co/MVYMRVD)
+![probando](https://ibb.co/grSr6yF)
 ## Encuestas
 [Encuestas](https://docs.google.com/document/d/1v1NqMLAKgoq1u7gdmKCabHb5l9X7pjnQUI4wuVi1-4A/edit)
 ## Pruebas de usabilidad
