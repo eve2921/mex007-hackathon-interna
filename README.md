@@ -45,17 +45,13 @@ Terminado
 ## Code Style
 - Vanilla Javascript
  
-## Screenshots
-![Pantalla de inicio](https://ibb.co/gb2N6Sy)
-*Pantalla de Inicio en mobile*
-![Pantalla de inicio en web](https://ibb.co/gPKhfSZ)
-*Pantalla de inicio en web*
-![Tarjeta con información detallada del personaje](https://ibb.co/QftTh60)
 ## Tech/framework usados
 Desarrollado con:
 -  HTML5
 -  CSS3
-- Javascript (ES6)
+-  Bootstrap 4
+-  Javascript (ES6)
+
 ## Features
 El objetivo de nuestra página es que el jugador tenga rápido acceso la información mas relevante de los campeones.
 La pagina permite al usuario:
