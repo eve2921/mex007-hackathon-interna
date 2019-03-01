@@ -1,16 +1,15 @@
-# Proyecto de la Hackaton interna de Laboratoria, séptima generación.
-Sci-filos, 
+#Sci-filos, 
 
-Introducción
+##Introducción
 El consumo de contenido audiovisual por medio de plataformas digitales, dispositivos móviles y streaming ha experimementado un boom desde hace algunos años. 
 Netflix, la plataforma que va a la cabeza en este sector generó según datos de la propia empresa  2 mil 785 millones de dólares durante un segundo trimestre del 2017. 
 Al ser un mercado en crecimiento las casas productoras "tradicionales"  y compañias relacionadas con el entretenimiento también han generado sus propias plataformas para la distribución de sus productos. Plataformas como FOX Play, Go, Cinepolis Clic o Google play son ejemplos de ello.
 
-Plateamiento del problema
+##Plateamiento del problema
 ¿A cuantos de nosotros no nos pasa que queremos ver una película pero no sabemos cual y terminamos naufragando en el catálogo de películas?
 Pasa mas a menudo de lo que a veces nos gustaría, a pesar de los esfuerzos de las plataformas por mostrarnos sugerencias que nos podrían interesar.
 
-Nuestro producto.
+##Nuestro producto.
 De la necesidad de proporcionar una experiencia mas ágil al elegir contenido surge Sci-filos.
 Una aplicación especializada en la recomendación de películas del género de ciencia ficción.
 Sci-filos busca ayudar al usuario a elegir un titulo en un menor tiempo, para ello tiene una sección con sugerencias del día,  sugerencias basadas en mejores efectos especiales y un botón para obtener una sugerencia random.
