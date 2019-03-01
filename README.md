@@ -59,9 +59,11 @@ En un próximo alcance tenemos planeado:
 ## ¿Cómo usar LOL Lovers?
 Para ingresar a la plataforma de Sci-filos, se debe contar con acceso a internet en un dispositivo móvil y en la barra de direcciones colocar la siguiente dirección.
 https://erandicvc13.github.io/mex007-hackathon-interna/src/
-En la parte inferior del menú se encuentran las opciones que pueden ser visitadas, en la parte superior se encuentra un buscador para buscar una película por título, año o director.
+En la parte inferior del menú se encuentran las opciones que pueden ser visitadas, en la parte superior se ubica un buscador para ingresar la película a buscar por título, año o director.
 
 ## Colaboradoras
 - [Erandi Carolina Vázquez Cuervo](https://github.com/ErandiCVC13)
 - [Evaluz Vazquez Espinosa](https://github.com/eve2921/)
+- [Mitzi Yolotzin Olvera Castillo](https://github.com/MitziYolotzin)
+- [Andrea Cruz Hernández](https://github.com/AndieCruz)
 
