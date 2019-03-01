@@ -66,77 +66,13 @@ La pagina permite al usuario:
  
 * Utiliza la interfaz en móviles y web
 * Realizar pruebas unitarias
-## Instalación
-Para poder utilizar el código, realizar modificaciones o contribuir al proyecto es necesario:
-- Tener un editor de textos instalado (Visual Studio Code, Atom, Sublime, etc.)
-- Realizar un fork del repositorio
-- Clonarlo el fork a la computadora donde se vaya a trabajar
-- Tener instalado Node.js
-- Instalar las dependencias del proyecto con el comando *npm install*
-## Archivos
-El *boilerplate* de este proyecto contiene la siguiente estructura de archivos, así como toda la configuración de dependencias y tests:
-```text
-.
-├── package.json
-├── README.md
-├── src
-│   ├── data
-│   │   ├── injuries
-│   │   │   ├── injuries.js
-│   │   │   └── injuries.json
-│   │   ├── lol
-│   │   │   ├── lol.js
-│   │   │   └── lol.json
-│   │   ├── pokemon
-│   │   │   ├── pokemon.js
-│   │   │   └── pokemon.json
-│   │   ├── steam
-│   │   │   ├── steam.js
-│   │   │   └── steam.json
-│   │   └── worldbank
-│   │       ├── worldbank.js
-│   │       └── worldbank.json
-│   ├── data.js
-│   ├── index.html
-│   ├── main.js
-│   └── style.css
-│   │
-│   │──assets
-│       ├── Logo LOL png.png
-│       ├── blol.jpg
-│       ├── icono-menu.png
-│       └── logoLOL.png
-└── test
-    └── data.spec.js
-8 directories, 17 files
-```
-La carpeta `data/` dentro del _boilerplate_ incluye un extracto de la data que podemos usar tanto en los tests como en la interfaz en sí. Todos los datos usados son ficticios, y su uso no afecta ni perjudica a ninguna persona o individuo moral.
-### Carpeta src
-**data.js**
-En este archivo se encuentran las funciones que permiten la manipulación de datos a través de arreglos y objetos. Contiene toda la funcionalidad que corresponde a obtener, procesar y manipular datos.
-**main.js**
-Este archivo contiene todo el código y funciones relacionadas con mostrar en pantalla los datos solicitados por el usuario y obtenidos de las funciones ejecutadas en data.js
-**index.html**
-Contiene la maquetación base de nuestro sitio y sobre la que se agregan elementos del DOM de acuerdo a las necesidades de la interfaz, también contiene los links a las hojas de estilo y archivos de Javascript que dan estilo y funcionalidad a la página.
-**style.css**
-Aquí se encuentra todo el código relacionado a los estilos necesarios para todos los elementos de la interfaz
-### Carpeta UX
-En esta carpeta se encuentra documentado el proceso de diseño realizado para la elaboración de la interfaz, eso incluye la aplicación de entrevistas, encuestas y pruebas de usuario, así como la elaboracion de sketches, wireframes y prototipos.
-## Tests
-Para correr los test del proyecto es necesario:
-- Tener instalado Node.js
-- Instalar las dependencias del proyecto con el comando 
-```javascript
-npm install
-```
-- Ejecutar desde la terminal las pruebas unitarias con el comando
-```javascript
-npm run test
-```
+
 ## ¿Cómo usar LOL Lovers?
-Para ingresar a la plataforma de LOL Lovers, se debe contar con acceso a interner e ingresar a la liga: https://cristalgarcia.github.io/cdmx-2019-01-bc-core-data-lovers/src/
-En la parte superior del menú se encuentran las opciones que pueden ser visitadas, también se encuentra un buscador para encontrar al campeon de su preferencia y por ultimo se puede dar clic en las tarjetas de los diferentes campeones para conocer una informacion mas detallada de cada uno.
+Para ingresar a la plataforma de Sci-filos, se debe contar con acceso a internet en un dispositivo móvil y en la barra de direcciones colocar la siguiente dirección.
+https://erandicvc13.github.io/mex007-hackathon-interna/src/
+En la parte inferior del menú se encuentran las opciones que pueden ser visitadas, en la parte superior se encuentra un buscador para buscar una película por título, año o director.
+
 ## Colaboradoras
-- [Cristal Grisel García Gutiérrez](https://github.com/Cristalgarcia)
+- [Erandi Carolina Vázquez Cuervo](https://github.com/ErandiCVC13)
 - [Evaluz Vazquez Espinosa](https://github.com/eve2921/)
 
