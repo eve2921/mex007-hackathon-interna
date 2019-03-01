@@ -1,4 +1,4 @@
-# Sci-filos, 
+# Sci-filos
 
 ## Introducción
 El consumo de contenido audiovisual por medio de plataformas digitales, dispositivos móviles y streaming ha experimementado un boom desde hace algunos años. 
@@ -16,9 +16,11 @@ Sci-filos busca ayudar al usuario a elegir un titulo en un menor tiempo, para el
 Otra sección dentro de Sci-Filos es un top de las películas mejor calificas.
 Para los amantes de la ciencia ficción que quieren conocer mas sobre una película en particular se agrego un buscador en la parte superior de la aplicación.
 
+## Encuesta
+[Encuestas](https://docs.google.com/document/d/1v1NqMLAKgoq1u7gdmKCabHb5l9X7pjnQUI4wuVi1-4A/edit)
 ## Prototipado
 
-Baja fidelidad
+- Baja fidelidad
 ![probando](https://i.ibb.co/Y7K6ymq/prototipobaja.png)
 
 - Pruebas de usabilidad
@@ -29,15 +31,10 @@ Al 100% les pareció útil la idea para optimizar su tiempo y obtener sugerencia
 
 [Prototipo Marvel](https://marvelapp.com/87607bd/screen/53878026)
 
-Alta fidelidad
+- Alta fidelidad
 ![probando](https://i.ibb.co/0MtVBmx/prototipoalta.png)
 
 [Resultados de las pruebas con usuarios](https://docs.google.com/document/d/1dciFzH8T0574tdzBzyVNgas-9lX_POLIqcIOxwKz0js/edit)
-
-## Encuestas
-[Encuestas](https://docs.google.com/document/d/1v1NqMLAKgoq1u7gdmKCabHb5l9X7pjnQUI4wuVi1-4A/edit)
-
-
 
 
 ## Build status
