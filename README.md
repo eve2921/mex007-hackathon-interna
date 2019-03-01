@@ -23,6 +23,7 @@ Para obtener datos de los posibles usuarios que usarían nuestra aplicación nos
 ## Prototipado
 
 - Baja fidelidad
+
 ![probando](https://i.ibb.co/Y7K6ymq/prototipobaja.png)
 
 Pruebas de usabilidad
