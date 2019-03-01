@@ -26,7 +26,7 @@ Para obtener datos de los posibles usuarios que usarían nuestra aplicación nos
 
 ![probando](https://i.ibb.co/Y7K6ymq/prototipobaja.png)
 
-Pruebas de usabilidad.
+- Pruebas de usabilidad.
 Entre las principales observaciones que se hizo a la interfaz está que falta especificar la función de los marcianitos en la parte inferior de la imagen de la película ya que algunos lo interpretaron como una posible pista de lo que trataba el filme o si se podía interactuar con ellos para jugar. Una vez que se les comentó que era para puntuar la película, uno sugirió cambiarlo por una barra que se llenara, 2 más opinaron que se regresara al tradicional sistema de estrellas, otro comentó que solo se agregara la calificación en número y 2 más creyeron conveniente agregar el texto “puntuación” sobre los marcianitos. 
 El 80% opinó que la navegación era rápida y simple, solo uno se sintió confundido al no tener la visualización completa de la app (que tuviera texto e imágenes de las películas)
 El 60% dijo que no la usaría mas de dos veces por semana ya que no tienen tanto tiempo para ver películas o buscar sobre ellas, el otro 40% se sintió entusiasmado en tener una app que le ayudara con el contenido que quería ver
@@ -53,15 +53,8 @@ Desarrollado con:
 -  Javascript (ES6)
 
 ## Features
-El objetivo de nuestra página es que el jugador tenga rápido acceso la información mas relevante de los campeones.
-La pagina permite al usuario:
-* Ver las diferentes listas de roles
-* Dar clic sobre la tarjeta de un personaje para obtener información mas detallada
-* Hacer busqueda por nombre del campeón
-* Conocer el promedio de ataque de todos los campeones
- 
-* Utiliza la interfaz en móviles y web
-* Realizar pruebas unitarias
+En un próximo alcance tenemos planeado:
+* ds
 
 ## ¿Cómo usar LOL Lovers?
 Para ingresar a la plataforma de Sci-filos, se debe contar con acceso a internet en un dispositivo móvil y en la barra de direcciones colocar la siguiente dirección.
