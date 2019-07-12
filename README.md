@@ -61,7 +61,7 @@ En un próximo alcance tenemos planeado:
 * Que se le sugiera al usuario una película segun su estado de ánimo
 
 
-## ¿Cómo usar LOL Lovers?
+## ¿Cómo usar Sci-filos?
 Para ingresar a la plataforma de Sci-filos, se debe contar con acceso a internet en un dispositivo móvil y en la barra de direcciones colocar la siguiente dirección.
 https://erandicvc13.github.io/mex007-hackathon-interna/src/
 En la parte inferior del menú se encuentran las opciones que pueden ser visitadas, en la parte superior se ubica un buscador para ingresar la película a buscar por título, año o director.
